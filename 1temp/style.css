@@ -1,0 +1,18 @@
+/* *{
+    margin: 0;
+} */
+
+.pai{
+    height: 50vh;
+    width: 100vw;
+    background-color: #d2cbcb;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+a{
+    margin: 20px;
+    display: block;
+}
